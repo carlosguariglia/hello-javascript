@@ -1,30 +1,28 @@
-/*
-Clase 1 en vídeo | 10/07/2024
-Introducción, instalación, hola mundo y variables
-https://www.twitch.tv/videos/2194200202?t=00h14m43s
-*/
+// fomas de declarar variables
+// let, const, var
 
-// var
+// Las variables deben ser descriptivas y usar lower Camelcase
+// Ejemplo: myVariable
 
-var helloWorld = "¡Hola, JavaScript!"
+// var       Esta es la forma antig de declarar variables (NO SE USA)
+
+var helloWorld = "¡Hello, Javascript!"
 console.log(helloWorld)
 
-helloWorld = "¡Hola de nuevo, JavaScript!"
+helloWorld = "¡Hola de nuevo, Javascript!"
 console.log(helloWorld)
 
-// let
+// let      Esta es la forma moderna de declarar variables
+//          Son accesibles dentro del bloque que fueron declaradas
 
-let helloWorld2 = "¡Hola, JavaScript 2!"
+let helloWorld2 = "¡Hello, Javascript 2!"
 console.log(helloWorld2)
 
-helloWorld2 = "¡Hola de nuevo, JavaScript 2!"
+helloWorld2 = "¡Hola de nuevo, Javascript 2!"
 console.log(helloWorld2)
 
-// const
+// const     Esta es la forma moderna de declarar constantes
 
-const helloWorld3 = "¡Hola, JavaScript 3!"
-console.log(helloWorld3)
+const hellWorld3 = "¡Hola, Javascript 3!"
+console.log(hellWorld3)
 
-// Error
-// helloWorld3 = "¡Hola de nuevo, JavaScript 2!"
-// console.log(helloWorld3)

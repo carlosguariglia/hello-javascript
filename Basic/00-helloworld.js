@@ -1,34 +1,24 @@
-/*
-Clase 1 en vídeo | 10/07/2024
-Introducción, instalación, hola mundo y variables
-https://www.twitch.tv/videos/2194200202?t=00h14m43s
-*/
+// Este es un comentario de una linea
+/* Este es un comentario
+multilinea */
 
-// Esto es un comentario simple
+// Las 3 formas de imprimir por consola
+console.log("¡Hola, Javascript!") // comillas dobles
+console.log('¡Hola, Javascript!') // comillas simples
+console.log(`¡Hola, Javascript!`) // con backticks
 
-/*
-Esto es
-un comentario
-en varias líneas
-*/
+// No es necesario usar ; al final de una instruccion. Se puede usar pero no es lo modernamente recomandable
 
-console.log("¡Hola, JavaScript!")
-console.log('¡Hola, JavaScript!')
-console.log(`¡Hola, JavaScript!`)
 
-// console.log("¡Hola, JavaScript!")
+console.log(5) // imprime el numero 5
+console.log("5") // imprime el string 5
 
-/*
-console.log("¡Hola, JavaScript!")
-console.log('¡Hola, JavaScript!')
-console.log(`¡Hola, JavaScript!`)
-*/
+console.log(2+3)    // imprime el resultado de 2+3
 
-console.log("5")
-console.log(5)
-console.log(5 + 2)
-console.log(5 - 2)
-console.log(5 * 2)
-console.log(5 / 2)
-console.log(5 % 2)
-console.log(5 ** 2)
+// operaciones aritmeticas
+console.log(2+3)    // imprime el resultado de 2+3
+console.log(2-3)    // imprime el resultado de 2-3
+console.log(2*3)    // imprime el resultado de 2*3
+console.log(2/3)    // imprime el resultado de 2/3
+console.log(2%3)    // imprime el resultado de 2%3
+console.log(2**3)   // imprime el resultado de 2 elevado a la 3
