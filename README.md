@@ -11,8 +11,8 @@
 
 ## Próxima clase
 
-### Miércoles 7 de agosto a las 20:00h (España) en directo desde [Twitch](https://twitch.tv/mouredev)
-#### Puedes crear un recordatorio y consultar el horario en tu país desde [Discord](https://discord.gg/ZZ98qNuV?event=1268298731183411200)
+### Miércoles 21 de agosto a las 20:00h (España) en directo desde [Twitch](https://twitch.tv/mouredev)
+#### Puedes crear un recordatorio y consultar el horario en tu país desde [Discord](https://discord.gg/7nB2HZRz?event=1273733009828220938)
 
 ## Clases en vídeo
 
@@ -53,6 +53,25 @@ Código:
 * [15 - Ejercicios: Bucles](./Basic/15-loops-exercises.js)
 * [16 - Funciones](./Basic/16-functions.js)
 * [17 - Ejercicios: Funciones](./Basic/17-functions-exercises.js)
+
+#### [CLASE 5 | 07/08/2024 | Objetos, desestructuración, propagación y clases](https://www.twitch.tv/videos/2218300512?t=00h17m10s)
+
+Código:
+
+* [18 - Objetos](./Basic/18-objects.js)
+* [19 - Ejercicios: Objetos](./Basic/19-objects-exercises.js)
+* [20 - Desestructuración y propagación](./Basic/20-destructuring-spreading.js)
+* [21 - Ejercicios: Desestructuración y propagación](./Basic/21-destructuring-spreading-exercises.js)
+* [22 - Clases](./Basic/22-classes.js)
+
+#### [CLASE 6 | 15/08/2024 | Clases (continuación) y manejo de errores](https://www.twitch.tv/videos/2225058195?t=00h16m42s)
+
+Código:
+
+* [22 - Clases](./Basic/22-classes.js)
+* [23 - Ejercicios: Clases](./Basic/23-classes-exercises.js)
+* [24 - Manejo de errores](./Basic/24-error-handling.js)
+* [25 - Ejercicios: Manejo de errores](./Basic/25-error-handling-exercises.js)
 
 ## Enlaces de interés
 
